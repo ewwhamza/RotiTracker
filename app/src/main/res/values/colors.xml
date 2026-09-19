@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Painted behind the window before Compose draws, so it must match the Compose
+         background or a cold start flashes the wrong colour. -->
+    <color name="window_background">#FFF8F5</color>
+</resources>
